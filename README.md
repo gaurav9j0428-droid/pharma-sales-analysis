@@ -75,6 +75,8 @@ I used Pandas to explore the sales data and compare ATC categories.
 I used Matplotlib to create charts and look at monthly patterns in R03 sales.
 
 
+## Project brief
 
+https://roadmap.sh/projects/pharmaceutical-sales-data
 
 
